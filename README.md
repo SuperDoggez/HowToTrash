@@ -51,9 +51,11 @@
 
 	![enter image description here](https://media.discordapp.net/attachments/1185153754274734100/1185160054085779526/Screenshot_2023-12-15_165558.png?ex=658e9950&is=657c2450&hm=6649b1f2f6ad300ef0336303a0af26c31e499a763cc6f41d3fcd7f0549a24bb0&=&format=webp&quality=lossless&width=2484&height=1392)
 9.  **Go to in front of bin and press E to throw into the bin.**
+	![enter image description here](https://media.discordapp.net/attachments/1185153754274734100/1185259749193826404/ThrowToBin.png?ex=658ef629&is=657c8129&hm=31a6eef9e6bc41eb30836e437fd2ea8aba6bca8d26ea379b88823e72a42d5319&=&format=webp&quality=lossless&width=1990&height=1294)
 10.  **When the time running out It's will pop-up the result screen.**
-![enter image description here](https://media.discordapp.net/attachments/1185153754274734100/1185160054639439943/Screenshot_2023-12-15_165728.png?ex=658e9950&is=657c2450&hm=62372e4f394be1d410d8c9800ea92b288a858b388b0644174e7b2503429177d4&=&format=webp&quality=lossless&width=2480&height=1392)
-11.  **Click another level to play another unlocked level.**
-![enter image description here](https://media.discordapp.net/attachments/1185153754274734100/1185160055113400350/Screenshot_2023-12-15_165741.png?ex=658e9950&is=657c2450&hm=1366e719d5497ee4f209c439297b802527c462650e2fbc8c94721a4b1da246ab&=&format=webp&quality=lossless&width=2480&height=1392)
+	![enter image description here](https://media.discordapp.net/attachments/1185153754274734100/1185160054639439943/Screenshot_2023-12-15_165728.png?ex=658e9950&is=657c2450&hm=62372e4f394be1d410d8c9800ea92b288a858b388b0644174e7b2503429177d4&=&format=webp&quality=lossless&width=2480&height=1392)
+	![enter image description here](https://media.discordapp.net/attachments/1185153754274734100/1185259747809710171/BinData.png?ex=658ef628&is=657c8128&hm=fd74c84aa3565a891ab1c92bb9011a4b66c7af2590be337d7aa11eb837fad7a1&=&format=webp&quality=lossless&width=1990&height=1294)
+12.  **Click another level to play another unlocked level.**
+	![enter image description here](https://media.discordapp.net/attachments/1185153754274734100/1185160055113400350/Screenshot_2023-12-15_165741.png?ex=658e9950&is=657c2450&hm=1366e719d5497ee4f209c439297b802527c462650e2fbc8c94721a4b1da246ab&=&format=webp&quality=lossless&width=2480&height=1392)
 
 
