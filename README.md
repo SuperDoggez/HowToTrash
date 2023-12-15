@@ -34,7 +34,7 @@
 ![enter image description here](https://media.discordapp.net/attachments/1185153754274734100/1185160051577585714/Screenshot_2023-12-15_165328.png?ex=658e994f&is=657c244f&hm=a093effc76cc6d7218b87b71a6d592a696a2c0554bac9cd9db634d1ac7280d5f&=&format=webp&quality=lossless&width=2490&height=1390)
 
 3.  **Login into the game.**
-![enter image description here](https://media.discordapp.net/attachments/1185153754274734100/1185160050755518535/Screenshot_2023-12-15_165235.png?ex=658e994f&is=657c244f&hm=6fec9a1e43dbe2ed85a321e1d78730010851ae0a2722193d77df01a912776d0f&=&format=webp&quality=lossless&width=2470&height=1392)
+![enter image description here]([https://media.discordapp.net/attachments/1185153754274734100/1185160050755518535/Screenshot_2023-12-15_165235.png?ex=658e994f&is=657c244f&hm=6fec9a1e43dbe2ed85a321e1d78730010851ae0a2722193d77df01a912776d0f&=&format=webp&quality=lossless&width=2470&height=1392](https://media.discordapp.net/attachments/1185153754274734100/1185160052206743612/Screenshot_2023-12-15_165349.png?ex=658e994f&is=657c244f&hm=c9dc55f7c15d73e745b80df86b3e8d2f6f29eacf4411aac98b192d1adb7a5c6c&=&format=webp&quality=lossless&width=2480&height=1392))
 
 4.  **In Main Menu click on "Play" to start game.**
 ![enter image description here](https://media.discordapp.net/attachments/1185153754274734100/1185160050755518535/Screenshot_2023-12-15_165235.png?ex=658e994f&is=657c244f&hm=6fec9a1e43dbe2ed85a321e1d78730010851ae0a2722193d77df01a912776d0f&=&format=webp&quality=lossless&width=2470&height=1392)
